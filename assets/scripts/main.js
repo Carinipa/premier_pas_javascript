@@ -1,0 +1,2 @@
+addDot()
+displaySlides()
